@@ -1,0 +1,6 @@
+{
+ "label": "gguf",
+ "startup_s": 5.9,
+ "gtt_gib": 3.7,
+ "vram_gib": 2.1
+}
